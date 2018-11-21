@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/116a6ba030307147733b3e42f1d8056d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13602cc75d0afa6665cc3191b8881adb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d7b363232a7b228bf6c966e5d2db084a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ef7e5b4e95537549b4068d4b6325af0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/47ee7409d5967468be7b302b14f005d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18c67342342f727d11913cb429ea62ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cd4b7c6b529c1f4390cdf871d8b23b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cbda2748386c477b6081fa154350f6ad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8ba0bf366ff46a381d189727929b481c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fe68664a14fec98f7b8cc4f6239b20ce/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/559be79beb61f0162d814320fa874931/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/627d2bd78e36c6ee85087267e42e1d0b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b46c3567f6fcf3e512936c909020d206/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/mobile/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a93573db21d744640c44105b40b38a31/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/cb336bb855641cf7a5e07afb899fb4ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a49e332ea837c13d6b961b1706650667/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e90a589230cdac258e70790680f88a36/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f4067c887bb77cb4e94b17ab6fc2531/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68d4dd633f93a229ce5dd0dda53d66a5/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b46c3567f6fcf3e512936c909020d206/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b46c3567f6fcf3e512936c909020d206/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/mobile/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a93573db21d744640c44105b40b38a31/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/mobile/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a93573db21d744640c44105b40b38a31/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.myapp.MainActivity
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.5] /home/mobile/.gradle/caches/transforms-1/files-1.1/react-native-0.57.5.aar/b6333ef3c3beaeb089c5c8b7869cc45f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/116a6ba030307147733b3e42f1d8056d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/116a6ba030307147733b3e42f1d8056d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13602cc75d0afa6665cc3191b8881adb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/13602cc75d0afa6665cc3191b8881adb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d7b363232a7b228bf6c966e5d2db084a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/d7b363232a7b228bf6c966e5d2db084a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ef7e5b4e95537549b4068d4b6325af0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ef7e5b4e95537549b4068d4b6325af0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/47ee7409d5967468be7b302b14f005d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/47ee7409d5967468be7b302b14f005d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18c67342342f727d11913cb429ea62ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18c67342342f727d11913cb429ea62ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cd4b7c6b529c1f4390cdf871d8b23b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cd4b7c6b529c1f4390cdf871d8b23b8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cbda2748386c477b6081fa154350f6ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/cbda2748386c477b6081fa154350f6ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8ba0bf366ff46a381d189727929b481c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/8ba0bf366ff46a381d189727929b481c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fe68664a14fec98f7b8cc4f6239b20ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fe68664a14fec98f7b8cc4f6239b20ce/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/559be79beb61f0162d814320fa874931/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/559be79beb61f0162d814320fa874931/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/627d2bd78e36c6ee85087267e42e1d0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/627d2bd78e36c6ee85087267e42e1d0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b46c3567f6fcf3e512936c909020d206/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/mobile/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b46c3567f6fcf3e512936c909020d206/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/cb336bb855641cf7a5e07afb899fb4ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/cb336bb855641cf7a5e07afb899fb4ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a49e332ea837c13d6b961b1706650667/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a49e332ea837c13d6b961b1706650667/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e90a589230cdac258e70790680f88a36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/e90a589230cdac258e70790680f88a36/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f4067c887bb77cb4e94b17ab6fc2531/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f4067c887bb77cb4e94b17ab6fc2531/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68d4dd633f93a229ce5dd0dda53d66a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/mobile/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68d4dd633f93a229ce5dd0dda53d66a5/AndroidManifest.xml:20:5-44
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

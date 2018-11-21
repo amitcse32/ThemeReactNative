@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/main/assets"/><source path="/media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/src/debug/assets"/></dataSet></merger>

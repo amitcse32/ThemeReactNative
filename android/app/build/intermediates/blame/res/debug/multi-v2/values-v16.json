@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/mobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cd4b7c6b529c1f4390cdf871d8b23b8/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/mobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/116a6ba030307147733b3e42f1d8056d/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

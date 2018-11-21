@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/mobile/F456289D5628629A/react-apps/Themes/ReacNativeTheme/myapp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/mobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/116a6ba030307147733b3e42f1d8056d/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
